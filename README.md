@@ -1,5 +1,5 @@
 #  Kannada-handwritten-Palm-leaf-enhancement-using-IGT
- Implimentation of this project publish in 
+ Implimentation of this project published as a research article in below journal
  https://link.springer.com/book/9783031283239
  
 Youtube link
