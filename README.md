@@ -2,7 +2,7 @@
  Implimentation of this project publish in 
  https://link.springer.com/book/9783031283239
  
- System 
+ System configuaration
  
  1. windows AMD processor 8GB RAM 
  2. 2.50Ghz speed on the system 
